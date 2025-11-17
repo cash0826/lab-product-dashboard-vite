@@ -4,3 +4,14 @@ body {
   background-color: #f4f4f4;
   text-align: center;
 }
+
+button {
+  background-color: rgb(4, 109, 91);
+  color: antiquewhite;
+  padding: 10px;
+}
+
+header {
+  background-color: rgb(0, 0, 0);
+  color: cornsilk;
+}
